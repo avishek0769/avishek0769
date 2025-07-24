@@ -8,12 +8,10 @@ I'm particularly passionate about **system design**, **DevOps**, and **distribut
 
 🚀 Currently deepening my expertise in cloud infrastructure, microservices, and production-grade engineering.
 
-
-## ⚡ Quick Facts
-- 🔭 I’m currently working on: Building production-ready web tools
-- 🌱 Learning: System Design, DevOps for Devs, Microservices
-- 💬 Interested in: Backend architecture, Docker, MongoDB, Cloud Deployment
-- 📫 How to reach me: [avishekadhikary42@gmail.com](mailto:avishekadhikary42@gmail.com)
+## 🧩 Featured Projects
+- 🎥 [VideoTubes](https://rebrand.ly/videotubes): Video Streaming Platform with adaptive streaming using FFmpeg + AWS ECS
+- 💻 [CloudIDE](https://github.com/avishek0769/Cloud-IDE): Collaborative cloud-based Web IDE with real-time editing and Docker isolation
+- 🧠 [QuizArena](https://rebrand.ly/live-quiz): Multiplayer quiz platform with matchmaking, leaderboard, and live friend system
 
 
 ## 🌐 Connect with Me
@@ -21,10 +19,11 @@ I'm particularly passionate about **system design**, **DevOps**, and **distribut
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekadhikary42@gmail.com) 
 
 
-## 🧩 Featured Projects
-- 🎥 [VideoTubes](https://rebrand.ly/videotubes): Video Streaming Platform with adaptive streaming using FFmpeg + AWS ECS
-- 💻 [CloudIDE](https://github.com/avishek0769/Cloud-IDE): Collaborative cloud-based Web IDE with real-time editing and Docker isolation
-- 🧠 [QuizArena](https://rebrand.ly/live-quiz): Multiplayer quiz platform with matchmaking, leaderboard, and live friend system
+## ⚡ Quick Facts
+- 🔭 I’m currently working on: Building production-ready web tools
+- 🌱 Learning: System Design, DevOps for Devs, Microservices
+- 💬 Interested in: Backend architecture, Docker, MongoDB, Cloud Deployment
+- 📫 How to reach me: [avishekadhikary42@gmail.com](mailto:avishekadhikary42@gmail.com)
 
 ##
 #### 🚀 Languages  
