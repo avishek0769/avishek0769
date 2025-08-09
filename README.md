@@ -9,10 +9,10 @@ I'm particularly passionate about **system design**, **DevOps**, and **distribut
 🚀 Currently deepening my expertise in cloud infrastructure, microservices, and production-grade engineering.
 
 ## 🧩 Featured Projects
-- 🎥 [VideoTubes](https://rebrand.ly/videotubes): Video Streaming Platform with adaptive streaming using FFmpeg + AWS ECS
+- 🎥 [VideoTubes](https://avishek.short.gy/videotubes): Video Streaming Platform with adaptive streaming using FFmpeg + AWS ECS
 - 💻 [CloudIDE](https://github.com/avishek0769/Cloud-IDE): Collaborative cloud-based Web IDE with real-time editing and Docker isolation
-- 🧠 [QuizArena](https://rebrand.ly/live-quiz): Multiplayer quiz platform with matchmaking, leaderboard, and live friend system
-
+- 🧠 [QuizArena](https://avishek.short.gy/quiz): Multiplayer quiz platform with matchmaking, leaderboard, and live friend system
+- 📹 [VideoCall](https://avishek.short.gy/videocall): Secure, real-time video calling application.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avishekadhikary) 
