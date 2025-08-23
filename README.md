@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Avishek Adhikary
 
+### 📊 GitHub Stats
+| ![Stats](https://github-readme-stats.vercel.app/api?username=avishek0769&theme=dark&hide_border=false) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avishek0769&theme=dark&hide_border=false&layout=compact) |
+|---|---|
+
+![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=dark&hide_border=false)
+
 I'm a **Full Stack Web Developer** with a strong backend focus, skilled in the **MERN stack**, **Docker**, and **AWS**. I build scalable, clean, and maintainable web and mobile apps that address real-world needs.
 
 With experience in building diverse applications — from cloud-based IDEs to video platforms and real-time systems — I love working on backend architecture and integrating modern cloud-native tools.
@@ -44,12 +50,7 @@ I'm particularly passionate about **system design**, **DevOps**, and **distribut
 
 ##
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=avishek0769&theme=dark&hide_border=false)
 
-![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=dark&hide_border=false)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avishek0769&theme=dark&hide_border=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
