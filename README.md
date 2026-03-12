@@ -20,6 +20,9 @@ Currently exploring Generative AI and Agentic AI, and learning how intelligent s
 | :--- | :--- |
 | ![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=avishek0769&theme=tokyonight&layout=compact&hide_border=false) | ![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=tokyonight&hide_border=false) |
 
+Here is the updated code for your Featured and Fun projects. I have organized them into a clean 2-column grid and added both the Live Demo and View Code links for every repository as requested.
+
+Markdown
 ---
 
 ## Featured Projects
@@ -27,9 +30,9 @@ Currently exploring Generative AI and Agentic AI, and learning how intelligent s
 
 | | |
 | :--- | :--- |
-| ![VideoTubes](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=VideoTubes&theme=tokyonight)<br>[Live Demo](https://avishek.short.gy/videotubes) | ![CloudIDE](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Cloud-IDE&theme=tokyonight)<br>[View Code](https://github.com/avishek0769/Cloud-IDE) |
-| ![VideoCall](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=video-live-and-record-call&theme=tokyonight)<br>[Live Demo](https://avishek.short.gy/videocall) | ![QuizArena](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=quiz_app&theme=tokyonight)<br>[Live Demo](https://avishek.short.gy/quiz) |
-| ![BackendSystem](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=welli_app_sih_2025&theme=tokyonight)<br>[Live Demo](https://github.com/avishek0769/welli_app_sih_2025/releases/tag/v1.0.0) | |
+| ![VideoTubes](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=VideoTubes&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/videotubes) \| [💻 View Code](https://github.com/avishek0769/VideoTubes) | ![CloudIDE](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Cloud-IDE&theme=tokyonight)<br>[💻 View Code](https://github.com/avishek0769/Cloud-IDE) |
+| ![VideoCall](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=video-live-and-record-call&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/videocall) \| [💻 View Code](https://github.com/avishek0769/video-live-and-record-call) | ![QuizArena](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=quiz_app&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/quiz) \| [💻 View Code](https://github.com/avishek0769/quiz_app) |
+| ![BackendSystem](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=welli_app_sih_2025&theme=tokyonight)<br>[🌐 Live Demo](https://github.com/avishek0769/welli_app_sih_2025/releases/tag/v1.0.0) \| [💻 View Code](https://github.com/avishek0769/welli_app_sih_2025) | |
 
 ---
 
@@ -38,11 +41,12 @@ Currently exploring Generative AI and Agentic AI, and learning how intelligent s
 
 | | |
 | :--- | :--- |
-| ![Fun1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=My_Github&theme=tokyonight)<br>[Live Link](https://avishek.short.gy/my-github) | ![Fun2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Vercel_clone&theme=tokyonight)<br>No Live Link |
-| ![Fun3](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_SMTP_server&theme=tokyonight)<br>No Live Link | ![Fun4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_DNS_server&theme=tokyonight)<br>No Live Link |
-| ![Fun5](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Docs_support_agent&theme=tokyonight)<br>No Live Link | |
+| ![Fun1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=My_Github&theme=tokyonight)<br>[🌐 Live Link](https://avishek.short.gy/my-github) \| [💻 View Code](https://github.com/avishek0769/My_Github) | ![Fun2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Vercel_clone&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Vercel_clone) |
+| ![Fun3](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_SMTP_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_SMTP_server) | ![Fun4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_DNS_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_DNS_server) |
+| ![Fun5](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Docs_support_agent&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Docs_support_agent) | |
 
 ---
+
 
 ## Skills & Infrastructure
 
