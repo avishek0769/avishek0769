@@ -20,9 +20,7 @@ Currently exploring Generative AI and Agentic AI, and learning how intelligent s
 | :--- | :--- |
 | ![WakaTime](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=avishek0769&theme=tokyonight&layout=compact&hide_border=false) | ![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=tokyonight&hide_border=false) |
 
-Here is the updated code for your Featured and Fun projects. I have organized them into a clean 2-column grid and added both the Live Demo and View Code links for every repository as requested.
 
-Markdown
 ---
 
 ## Featured Projects
