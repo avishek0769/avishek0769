@@ -39,7 +39,7 @@ Currently exploring Generative AI and Agentic AI, and learning how intelligent s
 
 | | |
 | :--- | :--- |
-| ![Fun1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=My_Github&theme=tokyonight)<br>[🌐 Live Link](https://avishek.short.gy/my-github) \| [💻 View Code](https://github.com/avishek0769/My_Github) | ![Fun2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Vercel_clone&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Vercel_clone) |
+| ![Fun1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=My_Github&theme=tokyonight)<br>[🌐 Live Link](https://avishek.short.gy/my-github) \| [💻 View Code](https://github.com/avishek0769/My_Github) | ![Fun2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Vercel_clone&theme=tokyonight)<br> [🌐 Live Link](https://avishek.short.gy/vercel-clone) \| [💻 View Code](https://github.com/avishek0769/Vercel_clone) |
 | ![Fun3](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_SMTP_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_SMTP_server) | ![Fun4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_DNS_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_DNS_server) |
 | ![Fun5](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Docs_support_agent&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Docs_support_agent) | |
 
