@@ -1,12 +1,12 @@
 # Hi, I'm Avishek Adhikary
 
-I'm a Full Stack Web Developer with a strong backend focus, skilled in the MERN stack, Docker, and AWS. I build scalable, clean, and maintainable web and mobile applications that solve real-world problems.
+I’m a Full-Stack Developer with a strong focus on backend systems, working with the MERN stack and modern DevOps practices. I build clean, maintainable web and mobile applications that solve real-world problems.
 
-With experience building diverse systems - from cloud-based IDE platforms to video streaming and real-time applications. I enjoy designing backend architectures and integrating modern cloud-native technologies.
+I’ve worked on a range of projects—from cloud-based IDEs to video streaming and real-time applications—which reflect my interest in building practical and well-structured systems. I enjoy designing backend architectures and working with cloud-native tools.
 
-I'm particularly interested in system design, distributed systems, and DevOps practices, focusing on containerization, scalable infrastructure, and reliable deployment pipelines using tools like Docker, Nginx, and cloud services (AWS).
+I’m particularly interested in system design, distributed systems, and DevOps, and I actively learn and apply these concepts through hands-on projects. My focus includes containerization, infrastructure, and reliable deployment workflows using tools like Docker, Nginx, and cloud platforms.
 
-Currently exploring Generative AI and Agentic AI, and learning how intelligent systems and autonomous agents can be integrated into real-world applications to build more adaptive and powerful software.
+Currently, I’m exploring Generative and Agentic AI, learning how intelligent systems and autonomous agents can be integrated into real-world applications.
 
 ---
 
