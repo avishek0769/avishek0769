@@ -38,9 +38,7 @@ Currently, I’m exploring Generative and Agentic AI, learning how intelligent s
 | :--- | :--- |
 | ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=avishek0769&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false) | ![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avishek0769&theme=tokyonight&layout=compact&hide_border=false) |
 
-| Coding Hours (Since 1st May, 2026) | Contribution Streak |
-| :--- | :--- |
-| ![WakaTime](https://github-readme-stats.hackclub.dev/api/wakatime?username=avishek0769&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10) | ![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=tokyonight&hide_border=false) |
+![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=tokyonight&hide_border=false) 
 
 
 ---
