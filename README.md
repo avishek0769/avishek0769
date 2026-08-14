@@ -17,6 +17,9 @@
   <a href="https://instagram.com/av1shhek" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://medium.com/@avishekadhikary" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </div>
 
 ###
@@ -36,7 +39,7 @@ Currently, I’m exploring Generative and Agentic AI, learning how intelligent s
 
 | General Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=avishek0769&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false) | ![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avishek0769&theme=tokyonight&layout=compact&hide_border=false) |
+| ![Stats](https://github-stats-extended.vercel.app/api?username=avishek0769&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false) | ![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=avishek0769&theme=tokyonight&layout=compact&hide_border=false) |
 
 ![Streak](https://streak-stats.demolab.com?user=avishek0769&theme=tokyonight&hide_border=false) 
 
@@ -48,9 +51,9 @@ Currently, I’m exploring Generative and Agentic AI, learning how intelligent s
 
 | | |
 | :--- | :--- |
-| ![DocChat](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=DocChat&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/docchat) \| [💻 View Code](https://github.com/avishek0769/DocChat) | ![VideoTubes](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=VideoTubes&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/videotubes) \| [💻 View Code](https://github.com/avishek0769/VideoTubes) |
-| ![CloudIDE](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Cloud-IDE&theme=tokyonight)<br>[💻 View Code](https://github.com/avishek0769/Cloud-IDE) | ![VideoCall](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=video-live-and-record-call&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/videocall) \| [💻 View Code](https://github.com/avishek0769/video-live-and-record-call) |
-| ![QuizArena](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=quiz_app&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/quiz) \| [💻 View Code](https://github.com/avishek0769/quiz_app) | ![BackendSystem](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=welli_app_sih_2025&theme=tokyonight)<br>[🌐 Live Demo](https://github.com/avishek0769/welli_app_sih_2025/releases/tag/v1.0.0) \| [💻 View Code](https://github.com/avishek0769/welli_app_sih_2025) |
+| ![DocChat](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=DocChat&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/docchat) \| [💻 View Code](https://github.com/avishek0769/DocChat) | ![VideoTubes](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=VideoTubes&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/videotubes) \| [💻 View Code](https://github.com/avishek0769/VideoTubes) |
+| ![CloudIDE](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=Cloud-IDE&theme=tokyonight)<br>[🌐 Live Link](https://avishek.short.gy/codium) \| [💻 View Code](https://github.com/avishek0769/Cloud-IDE) | ![VideoCall](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=video-live-and-record-call&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/videocall) \| [💻 View Code](https://github.com/avishek0769/video-live-and-record-call) |
+| ![QuizArena](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=quiz_app&theme=tokyonight)<br>[🌐 Live Demo](https://avishek.short.gy/quiz) \| [💻 View Code](https://github.com/avishek0769/quiz_app) | ![BackendSystem](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=welli_app_sih_2025&theme=tokyonight)<br>[🌐 Live Demo](https://github.com/avishek0769/welli_app_sih_2025/releases/tag/v1.0.0) \| [💻 View Code](https://github.com/avishek0769/welli_app_sih_2025) |
 ---
 
 ## Fun Projects
@@ -58,11 +61,13 @@ Currently, I’m exploring Generative and Agentic AI, learning how intelligent s
 
 | | |
 | :--- | :--- |
-| ![Fun1](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=My_Github&theme=tokyonight)<br>[🌐 Live Link](https://avishek.short.gy/my-github) \| [💻 View Code](https://github.com/avishek0769/My_Github) | ![Fun2](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Vercel_clone&theme=tokyonight)<br> [🌐 Live Link](https://avishek.short.gy/vercel-clone) \| [💻 View Code](https://github.com/avishek0769/Vercel_clone) |
-| ![Fun3](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_SMTP_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_SMTP_server) | ![Fun4](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=avishek0769&repo=Custom_DNS_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_DNS_server) |
+| ![Fun1](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=My_Github&theme=tokyonight)<br>[🌐 Live Link](https://avishek.short.gy/my-github) \| [💻 View Code](https://github.com/avishek0769/My_Github) | ![Fun2](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=Vercel_clone&theme=tokyonight)<br> [🌐 Live Link](https://avishek.short.gy/vercel-clone) \| [💻 View Code](https://github.com/avishek0769/Vercel_clone) |
+| ![Fun3](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=Custom_SMTP_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_SMTP_server) | ![Fun4](https://github-stats-extended.vercel.app/api/pin/?username=avishek0769&repo=Custom_DNS_server&theme=tokyonight)<br>No Live Link \| [💻 View Code](https://github.com/avishek0769/Custom_DNS_server) |
 | |
 
 ---
+
+[![Avishek's GitHub stats](https://github-stats-extended.vercel.app/api?username=avishek0769)](https://github.com/stats-organization/github-stats-extended)
 
 
 ## Skills & Infrastructure
