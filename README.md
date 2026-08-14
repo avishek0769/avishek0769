@@ -67,9 +67,6 @@ Currently, I’m exploring Generative and Agentic AI, learning how intelligent s
 
 ---
 
-[![Avishek's GitHub stats](https://github-stats-extended.vercel.app/api?username=avishek0769)](https://github.com/stats-organization/github-stats-extended)
-
-
 ## Skills & Infrastructure
 
 #### Languages  
