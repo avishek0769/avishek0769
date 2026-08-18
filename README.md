@@ -47,7 +47,6 @@ Currently, I’m exploring Generative and Agentic AI, learning how intelligent s
 ---
 
 ## Featured Projects
-*High-impact engineering and cloud-native deployments.*
 
 | | |
 | :--- | :--- |
